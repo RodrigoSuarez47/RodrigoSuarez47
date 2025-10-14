@@ -21,7 +21,7 @@ Actualmente colaboro en iniciativas que integran tecnología de vanguardia para 
 
 #### 🧠 Lenguajes  
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,java,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,java,python" />
 </p>
 
 #### 🗄️ Bases de Datos  
@@ -31,7 +31,7 @@ Actualmente colaboro en iniciativas que integran tecnología de vanguardia para 
 
 #### ⚙️ Frameworks & Librerías  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,redux,dotnet,ionic" />  
+  <img src="https://skillicons.dev/icons?i=react,vite,next,tailwind,bootstrap,redux,dotnet,ionic" />  
 </p>
 
 #### 🧰 Herramientas & Infraestructura  
@@ -62,9 +62,6 @@ API RESTful .NET 8, integrada con Active Directory y Microsoft 365 a traves de M
 <p>
   <a href="mailto:rodrisua1@hotmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
-  </a>
-  <a href="https://wa.me/59894974540">
-    <img src="https://skillicons.dev/icons?i=telegram" height="40" alt="WhatsApp (Telegram icon)" />
   </a>
   <a href="https://www.linkedin.com/in/rodrigogabrielsuarez/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
