@@ -61,18 +61,19 @@ API RESTful .NET 8, integrada con Active Directory y Microsoft 365 a traves de M
 
 <p>
   <a href="mailto:rodrisua1@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-rodrisua1@hotmail.com-red?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
   </a>
   <a href="https://wa.me/59894974540">
-    <img src="https://img.shields.io/badge/WhatsApp-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=whatsapp" height="40" alt="WhatsApp" />
   </a>
   <a href="https://www.linkedin.com/in/rodrigogabrielsuarez/">
-    <img src="https://img.shields.io/badge/LinkedIn-RodrigoSuarez47-blue?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   <a href="https://github.com/RodrigoSuarez47">
-    <img src="https://img.shields.io/badge/GitHub-RodrigoSuarez47-black?style=flat&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
 </p>
+
 
 
 > ¿Tienes un proyecto en mente? Me encantaría ayudarte a hacerlo realidad. 🚀  
