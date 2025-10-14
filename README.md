@@ -45,24 +45,35 @@ Actualmente colaboro en iniciativas que integran tecnología de vanguardia para 
 
 #### 1️⃣ Sistema de Gestión Mayorista Javier  
 ERP con **API RESTful y frontend MVC** (Razor Views, C#). Módulos para artículos, proveedores, clientes, usuarios, pedidos y reportes.  
-**Stack:** C#, Entity Framework Core, .NET 8, PostgreSQL, JWT, BCrypt.NET, PDFSharp, Razor Pages, Tabulator, Chart.js, Bootstrap, Neon, Somee.
+**Stack:** C#, Entity Framework Core, .NET 8, PostgreSQL, JWT, BCrypt.NET, PDFSharp, Razor Pages, Tabulator, Chart.js, Bootstrap, BD alojada en Neon, Hosting en Somee.
 
 #### 2️⃣ Web de Clientes para Mayorista Javier (PWA)  
-Catálogo web PWA en TypeScript + React, integrado con ERP. Permite consultar productos, stock y precios en tiempo real, optimizado para mobile-first y offline-first.  
+Catálogo web en TypeScript + React, integrado con ERP. Permite consultar productos, stock y precios en tiempo real, optimizado para mobile-first y offline-first.  
 **Stack:** TypeScript, React, Next.js, PWA, SPA, TailwindCSS, Vercel  
 
 #### 3️⃣ Gestor de Salas de Reunión — Jaume & Sere 🚧 En desarrollo  
-API RESTful .NET 8 con Active Directory y frontend React + Vite. Gestión integral de reservas con notificaciones vía Outlook (Microsoft Graph). Despliegue en Azure.  
+API RESTful .NET 8, integrada con Active Directory y Microsoft 365 a traves de Microsoft Graph API. Frontend React + Vite. Gestión integral de reservas con notificaciones vía Outlook. Despliegue en Azure.  
 **Stack:** C#, .NET 8, EF Core, MS SQL Server Express, AD, Microsoft Graph, React, Vite, TypeScript, TailwindCSS, Azure  
 
 ---
 
 ### 📫 Contacto  
 
-- Email: [rodrisua1@hotmail.com](mailto:rodrisua1@hotmail.com)  
-- WhatsApp: [+598 94 974 540](https://wa.me/59894974540)  
-- LinkedIn: [linkedin.com/in/rodrigogabrielsuarez](https://www.linkedin.com/in/rodrigogabrielsuarez/)  
-- GitHub: [RodrigoSuarez47](https://github.com/RodrigoSuarez47)
+<p>
+  <a href="mailto:rodrisua1@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-rodrisua1@hotmail.com-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/59894974540">
+    <img src="https://img.shields.io/badge/WhatsApp-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rodrigogabrielsuarez/">
+    <img src="https://img.shields.io/badge/LinkedIn-RodrigoSuarez47-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/RodrigoSuarez47">
+    <img src="https://img.shields.io/badge/GitHub-RodrigoSuarez47-black?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
+
 
 > ¿Tienes un proyecto en mente? Me encantaría ayudarte a hacerlo realidad. 🚀  
 
