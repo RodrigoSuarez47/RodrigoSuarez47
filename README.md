@@ -27,22 +27,16 @@ Actualmente colaboro en iniciativas que integran tecnología de vanguardia para 
 #### 🗄️ Bases de Datos  
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase" />  
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" height="30" />
 </p>
 
 #### ⚙️ Frameworks & Librerías  
 <p>
   <img src="https://skillicons.dev/icons?i=react,next,tailwind,redux,dotnet,ionic" />  
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-68217A?logo=.net&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/BCrypt.NET-4B8BBE?logo=lock&logoColor=white" height="30" />
 </p>
 
 #### 🧰 Herramientas & Infraestructura  
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,azure,vercel" />  
-  <img src="https://img.shields.io/badge/Neon-00E599?logo=postgresql&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Somee-0078D4?logo=windows&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?logo=windows&logoColor=white" height="30" />
 </p>
 
 ---
