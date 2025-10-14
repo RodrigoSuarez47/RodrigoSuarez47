@@ -2,9 +2,8 @@
 
 <h3 align="center">
 💻 Desarrollador Full Stack | 🎓 Estudiante avanzado de Analista en Tecnologías de la Información  
-📍 Montevideo, Uruguay 🇺🇾
 </h3>
-
+<h4 align="center"> 📍 Montevideo, Uruguay 🇺🇾 </h4>
 ---
 
 ### 🚀 Sobre mí  
