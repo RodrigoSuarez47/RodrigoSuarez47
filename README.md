@@ -31,7 +31,7 @@ Actualmente colaboro en iniciativas que integran tecnología de vanguardia para 
 
 #### ⚙️ Frameworks & Librerías  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,next,tailwind,bootstrap,redux,dotnet,ionic" />  
+  <img src="https://skillicons.dev/icons?i=react,vite,next,tailwind,bootstrap,redux,dotnet,jquery,ionic" />  
 </p>
 
 #### 🧰 Herramientas & Infraestructura  
