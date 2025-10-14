@@ -64,7 +64,7 @@ API RESTful .NET 8, integrada con Active Directory y Microsoft 365 a traves de M
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
   </a>
   <a href="https://wa.me/59894974540">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" height="40" alt="WhatsApp" />
+    <img src="https://skillicons.dev/icons?i=telegram" height="40" alt="WhatsApp (Telegram icon)" />
   </a>
   <a href="https://www.linkedin.com/in/rodrigogabrielsuarez/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
@@ -73,8 +73,6 @@ API RESTful .NET 8, integrada con Active Directory y Microsoft 365 a traves de M
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
 </p>
-
-
 
 
 > ¿Tienes un proyecto en mente? Me encantaría ayudarte a hacerlo realidad. 🚀  
