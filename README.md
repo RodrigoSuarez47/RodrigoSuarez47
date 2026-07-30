@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Rodrigo</h1>
 
 <h3 align="center">
-💻 Desarrollador Full Stack | 🎓 Estudiante avanzado de Analista en Tecnologías de la Información  
+💻 Desarrollador Full Stack | 🎓 Analista en Tecnologías de la Información  | Analista GeneXus
 </h3>
 <h3 align="center"> 📍 Montevideo, Uruguay 🇺🇾 </h3>
 
@@ -10,7 +10,7 @@
 ### 🚀 Sobre mí  
 
 Desarrollador full stack con experiencia en diseño y desarrollo de soluciones tecnológicas robustas y escalables.  
-Estudiante avanzado en Universidad ORT Uruguay, con enfoque en optimización de procesos, buenas prácticas y arquitectura de software.  
+Egresado de la Universidad ORT Uruguay, con enfoque en optimización de procesos, buenas prácticas y arquitectura de software.  
 
 He trabajado en proyectos web y de escritorio, participando en todas las etapas: análisis, desarrollo, despliegue y soporte.  
 Actualmente colaboro en iniciativas que integran tecnología de vanguardia para resolver necesidades reales de negocio.  
