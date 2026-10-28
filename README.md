@@ -1,79 +1,158 @@
-<h1 align="center">👋 Hola, soy Rodrigo</h1>
+<div align="center">
 
-<h3 align="center">
-💻 Desarrollador Full Stack | 🎓 Analista en Tecnologías de la Información  | Analista GeneXus
-</h3>
-<h3 align="center"> 📍 Montevideo, Uruguay 🇺🇾 </h3>
+# ¡Hola, soy Rodrigo Suárez! 👋
 
----
+**Desarrollador Full Stack · Analista en Tecnologías de la Información · Analista GeneXus**
 
-### 🚀 Sobre mí  
+📍 Montevideo, Uruguay 🇺🇾
 
-Desarrollador full stack con experiencia en diseño y desarrollo de soluciones tecnológicas robustas y escalables.  
-Egresado de la Universidad ORT Uruguay, con enfoque en optimización de procesos, buenas prácticas y arquitectura de software.  
+Desarrollo software para resolver problemas reales: **sistemas de gestión, APIs, aplicaciones web y de escritorio, integraciones y automatización de procesos**.
 
-He trabajado en proyectos web y de escritorio, participando en todas las etapas: análisis, desarrollo, despliegue y soporte.  
-Actualmente colaboro en iniciativas que integran tecnología de vanguardia para resolver necesidades reales de negocio.  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_proyectos-2563EB?style=for-the-badge&logo=astro&logoColor=white)](https://rodrigosuarez.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigogabrielsuarez/)
+[![Email](https://img.shields.io/badge/Email-Contacto-334155?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:rodrisua1@hotmail.com)
 
----
-
-### Tech Stack  
-
-#### 🧠 Lenguajes  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,java,python" />
-</p>
-
-#### 🗄️ Bases de Datos  
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase" />  
-</p>
-
-#### ⚙️ Frameworks & Librerías  
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,next,tailwind,bootstrap,redux,dotnet,jquery,ionic" />  
-</p>
-
-#### 🧰 Herramientas & Infraestructura  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,azure,vercel" />  
-</p>
+</div>
 
 ---
 
-### 📂 Proyectos Destacados  
+## 👨‍💻 Sobre mí
 
-#### 1️⃣ Sistema de Gestión Mayorista Javier  
-ERP con **API RESTful y frontend MVC** (Razor Views, C#). Módulos para artículos, proveedores, clientes, usuarios, pedidos y reportes.  
-**Stack:** C#, Entity Framework Core, .NET 8, PostgreSQL, JWT, BCrypt.NET, PDFSharp, Razor Pages, Tabulator, Chart.js, Bootstrap, BD alojada en Neon, Hosting en Somee.
+Soy egresado de **Universidad ORT Uruguay**. Trabajo en soluciones de punta a punta: relevamiento de necesidades, arquitectura, backend, frontend, bases de datos, pruebas, despliegue y mantenimiento.
 
-#### 2️⃣ Web de Clientes para Mayorista Javier (PWA)  
-Catálogo web en TypeScript + React, integrado con ERP. Permite consultar productos, stock y precios en tiempo real, optimizado para mobile-first y offline-first.  
-**Stack:** TypeScript, React, Next.js, PWA, SPA, TailwindCSS, Vercel  
+Me interesa especialmente conectar la ingeniería de software con el funcionamiento cotidiano de un negocio: **inventario, ventas, reservas, planificación, reportes y trazabilidad**.
 
-#### 3️⃣ Gestor de Salas de Reunión — Jaume & Sere 🚧 En desarrollo  
-API RESTful .NET 8, integrada con Active Directory y Microsoft 365 a traves de Microsoft Graph API. Frontend React + Vite. Gestión integral de reservas con notificaciones vía Outlook. Despliegue en Azure.  
-**Stack:** C#, .NET 8, EF Core, MS SQL Server Express, AD, Microsoft Graph, React, Vite, TypeScript, TailwindCSS, Azure  
+Además del desarrollo, tengo experiencia en **operación y monitoreo de sistemas informáticos, análisis de logs, consultas SQL y detección de incidentes**.
 
----
+## 🧰 Tecnologías que utilizo
 
-### 📫 Contacto  
+> Stack respaldado por proyectos propios y colaboraciones. Las versiones indicadas corresponden a proyectos concretos, no a todos los repositorios.
+
+**Lenguajes y fundamentos**
 
 <p>
-  <a href="mailto:rodrisua1@hotmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/rodrigogabrielsuarez/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/RodrigoSuarez47">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-  </a>
+  <img alt="HTML, CSS, JavaScript, TypeScript, C#, Java y Python" src="https://skillicons.dev/icons?i=html,css,js,ts,cs,java,python&perline=9" />
 </p>
 
+**Frontend y aplicaciones de escritorio**
 
-> ¿Tienes un proyecto en mente? Me encantaría ayudarte a hacerlo realidad. 🚀  
+<p>
+  <img alt="React, Next.js, Astro, Vite, Tailwind CSS, Bootstrap y .NET" src="https://skillicons.dev/icons?i=react,nextjs,astro,vite,tailwind,bootstrap,dotnet&perline=9" />
+</p>
+
+React 19 · Next.js 16 · Astro · Vite · WPF / XAML · React Router · TanStack Query · Zustand · React Hook Form · Zod · Redux Toolkit
+
+**Backend, integraciones y datos**
+
+<p>
+  <img alt=".NET, PostgreSQL, MongoDB y Microsoft Azure" src="https://skillicons.dev/icons?i=dotnet,postgres,mongodb,azure&perline=9" />
+</p>
+
+C# · ASP.NET Core (.NET 8 / 10) · APIs REST · Entity Framework Core · SQL Server · PostgreSQL · MongoDB · JWT · Microsoft Graph API · Active Directory / LDAP · QuestPDF
+
+**DevOps, calidad y herramientas**
+
+<p>
+  <img alt="Git, GitHub, Docker, Vercel, GitHub Actions, VS Code y Visual Studio" src="https://skillicons.dev/icons?i=git,github,docker,vercel,githubactions,vscode,visualstudio&perline=9" />
+</p>
+
+Railway · Neon · pnpm · CI/CD · xUnit · Vitest · Testing Library · ESLint · Prettier · pruebas de integración · accesibilidad y rendimiento web
 
 ---
 
-⭐ *Si te gustó mi perfil o mis proyectos, considerá dejar una estrella — ¡significa más de lo que parece!*  
+## 🚀 Proyectos destacados
+
+### 🛒 Mayorista Javier — sistema integral de gestión comercial
+
+**En producción · Desarrollo Full Stack**
+
+Sistema desarrollado para centralizar **inventario, artículos, proveedores, clientes, pedidos, usuarios, reportes y métricas de ventas**. Integra el backoffice con un catálogo público de clientes y genera documentos PDF.
+
+- **Backend:** C#, ASP.NET Core **.NET 10**, Entity Framework Core, PostgreSQL, Npgsql, JWT, BCrypt.NET y QuestPDF.
+- **Backoffice:** **React 19**, TypeScript, Vite, TanStack Query, Zustand, React Router, React Hook Form, Zod y Recharts.
+- **Ingeniería:** Docker, xUnit, Vitest, controles de acceso, pruebas de concurrencia y GitHub Actions.
+- **Impacto:** el cliente estima un ahorro aproximado de **15 minutos por pedido** en el flujo integrado del sistema y catálogo.
+
+**[Ver el caso de estudio en mi portfolio](https://rodrigosuarez.vercel.app/#mayorista-javier)** · *Repositorios de negocio privados.*
+
+### 📱 Mayorista Javier — catálogo web para clientes
+
+**En producción · PWA**
+
+Aplicación con **Next.js 16, React 19, TypeScript y Tailwind CSS**. Incluye catálogo, búsqueda, precios por cantidad, carrito, envío de pedidos por WhatsApp, información de contacto, ubicación, guía de compra y preguntas frecuentes. Consulta la API comercial y valida precios y disponibilidad antes de preparar el mensaje.
+
+**[Visitar la web](https://mayoristajavier.vercel.app/)** · [Ver proyecto en mi portfolio](https://rodrigosuarez.vercel.app/#catalogo-mayorista-javier)
+
+### 🏢 Jaume & Sere — gestión corporativa de salas
+
+**En producción · Proyecto colaborativo**
+
+Sistema de reservas de salas con **ASP.NET Core .NET 8, React, Vite, SQL Server, Active Directory, Microsoft Graph y Azure**. Incorpora calendarios, disponibilidad, equipamiento, reglas de reserva, notificaciones y sincronización con Outlook.
+
+Participé en el análisis y desarrollo en equipo, con contribuciones verificadas a **integración con Microsoft Graph, reportes, reglas de negocio, auditoría y pruebas de integración**.
+
+**[Ver el caso de estudio](https://rodrigosuarez.vercel.app/#jaume-sere)** · *Repositorio corporativo privado.*
+
+### 🏗️ Ratio — gestión y planificación de obras
+
+**En construcción · Colaborador Full Stack**
+
+Colaboración en una solución para el sector de la construcción en Uruguay, con cliente **WPF / C#**, API **.NET 8** y **MongoDB**.
+
+Mis aportes incluyen:
+
+- Desarrollo integral del **diagrama de Gantt**: planificación por rubros, visualización de tiempos y costos, API e interfaz.
+- Mejoras de **seguridad, permisos, registros de auditoría y logs**.
+- **Importación/exportación Excel**, instaladores con **Inno Setup** y modernización visual de WPF.
+- Integración de planificación con los presupuestos y los costos previstos.
+
+**[Ver aportes y detalles técnicos](https://rodrigosuarez.vercel.app/#ratio-espina)** · *Código de terceros privado; instaladores disponibles mediante contacto.*
+
+### 🚚 FyV Traslados — web comercial
+
+**En producción · Desarrollo web**
+
+Sitio responsive desarrollado con **Astro, React, TypeScript y Tailwind CSS**, con información de servicios, contacto por WhatsApp, SEO y despliegue en **Vercel**.
+
+**[Visitar la web](https://fyv-traslados.vercel.app/)** · [Ver proyecto](https://rodrigosuarez.vercel.app/#fyv-traslados)
+
+### 🧾 Otras soluciones comerciales
+
+- **Almacén Lorena y Almacén Cubano:** soluciones de gestión con **.NET 8, React, TypeScript, Vite**, autenticación, ventas, compras, artículos, analítica y pruebas automatizadas.
+- **PimPollo:** estructura de web de clientes en **Astro**, administración con **React / Vite** y API **.NET 10** con **PostgreSQL**, Clean Architecture, Docker y configuración de despliegue en **Railway / Vercel**.
+
+*Estos repositorios son privados; se describe su tecnología sin publicar su código.*
+
+### 🌐 Mi portfolio personal
+
+**[rodrigosuarez.vercel.app](https://rodrigosuarez.vercel.app/)**
+
+Portfolio bilingüe en **Astro 7, TypeScript y Tailwind CSS**, con generación estática, SEO, accesibilidad, políticas de seguridad, optimización de imágenes y verificaciones en CI. Incluye información estructurada de proyectos y recursos de consulta para agentes.
+
+**[Ver código público](https://github.com/RodrigoSuarez47/PortfolioPersonal)**
+
+---
+
+## 🎓 Otros proyectos y formación práctica
+
+En mis repositorios públicos también hay trabajos de **ASP.NET MVC y Web API**, aplicaciones **React + Redux**, desarrollo móvil con **Capacitor / Android**, **Java** y fundamentos de **JavaScript**.
+
+No todos los repositorios representan mi stack actual: algunos documentan etapas anteriores de aprendizaje y evolución técnica.
+
+## 🧭 Cómo trabajo
+
+**Arquitectura mantenible** · **SOLID / DRY / KISS** · **Seguridad y permisos** · **Pruebas automatizadas** · **Observabilidad y auditoría** · **Diseño responsive** · **Accesibilidad** · **CI/CD** · **Documentación técnica**
+
+Prefiero soluciones simples de mantener, con decisiones justificadas por las necesidades del proyecto y no por sumar herramientas porque sí.
+
+---
+
+<div align="center">
+
+### 📫 Contacto
+
+[**Portfolio**](https://rodrigosuarez.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/rodrigogabrielsuarez/) · [**Email**](mailto:rodrisua1@hotmail.com)
+
+**Montevideo, Uruguay 🇺🇾**
+
+</div>
