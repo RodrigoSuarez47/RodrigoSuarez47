@@ -116,12 +116,13 @@ Sitio responsive desarrollado con **Astro, React, TypeScript y Tailwind CSS**, c
 
 **[Visitar la web](https://fyv-traslados.vercel.app/)** · [Ver proyecto](https://rodrigosuarez.vercel.app/#fyv-traslados)
 
-### 🧾 Otras soluciones comerciales
+### 🍗 PimPollo — plataforma comercial
 
-- **Almacén Lorena y Almacén Cubano:** soluciones de gestión con **.NET 8, React, TypeScript, Vite**, autenticación, ventas, compras, artículos, analítica y pruebas automatizadas.
-- **PimPollo:** estructura de web de clientes en **Astro**, administración con **React / Vite** y API **.NET 10** con **PostgreSQL**, Clean Architecture, Docker y configuración de despliegue en **Railway / Vercel**.
+**Proyecto privado**
 
-*Estos repositorios son privados; se describe su tecnología sin publicar su código.*
+Solución con web de clientes desarrollada en **Astro**, panel de administración en **React / Vite** y API **C# / .NET 10** con **PostgreSQL** y Clean Architecture. Incluye Docker y configuración de despliegue en **Railway / Vercel**.
+
+*El código no es público.*
 
 ### 🌐 Mi portfolio personal
 
